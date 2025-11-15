@@ -30,7 +30,6 @@ Repositori ini berisi Backend API untuk Proyek Capstone [AC-02]. API ini dibangu
     
 5.  **Dapatkan Model ML**
     Letakkan file model (`anomaly_model.pkl`) dari tim ML ke dalam folder `app/models/`.
-    *(Jika Anda belum memilikinya, jalankan `python create_dummy_model.py` untuk membuat file placeholder)*.
 
 6.  **Jalankan Server**
     ```bash
@@ -38,4 +37,5 @@ Repositori ini berisi Backend API untuk Proyek Capstone [AC-02]. API ini dibangu
     ```
 
 7.  **Buka Dokumentasi**
+
     Buka browser Anda dan navigasi ke `http://127.0.0.1:8000/docs`.
